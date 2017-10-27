@@ -1,0 +1,8 @@
+<suite name = "testing on feb 4">
+<test name = "ExpediaANDLetsKodeIT">
+<parameter name = "browserName" value= "firefox" />
+<classes>
+	<class name = "Everything2.Feb_4.testCase.Feb_4"/>
+</classes>
+</test>
+</suite>
